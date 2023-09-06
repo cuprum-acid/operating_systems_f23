@@ -1,0 +1,869 @@
+total 2097232
+lrwxrwxrwx   1 root root          9 сен  6 19:27 lib32 -> usr/lib32
+lrwxrwxrwx   1 root root         10 сен  6 19:27 libx32 -> usr/libx32
+drwxrwxrwt  20 root root       4096 сен  6 18:12 tmp
+drwxr-xr-x  19 root root       4180 сен  6 18:10 dev
+drwxr-xr-x  33 root root        900 сен  6 18:09 run
+dr-xr-xr-x 271 root root          0 сен  6 18:09 proc
+dr-xr-xr-x  13 root root          0 сен  6 18:09 sys
+drwxr-xr-x   3 root root       4096 сен  6 14:46 home
+drwxr-xr-x   4 root root       4096 сен  6 14:46 boot
+drwxr-xr-x  14 root root       4096 сен  6 14:38 usr
+-rw-------   1 root root 2147483648 сен  6 14:38 swapfile
+lrwxrwxrwx   1 root root          7 сен  6 14:38 bin -> usr/bin
+lrwxrwxrwx   1 root root          9 сен  6 14:38 lib64 -> usr/lib64
+lrwxrwxrwx   1 root root          8 сен  6 14:38 sbin -> usr/sbin
+lrwxrwxrwx   1 root root          7 сен  6 14:38 lib -> usr/lib
+drwx------   4 root root       4096 авг 29 21:53 root
+drwxr-xr-x 130 root root      12288 авг 29 21:53 etc
+drwxr-xr-x   3 root root       4096 авг 29 21:35 opt
+drwxrwxr-x   2 root root       4096 авг 29 21:22 cdrom
+drwx------   2 root root      16384 авг 29 21:14 lost+found
+drwxr-xr-x  13 root root       4096 авг  8 01:59 snap
+drwxr-xr-x  14 root root       4096 авг  8 01:58 var
+drwxr-xr-x   2 root root       4096 авг  8 01:52 media
+drwxr-xr-x   2 root root       4096 авг  8 01:52 mnt
+drwxr-xr-x   2 root root       4096 авг  8 01:52 srv
+total 0
+total 0
+total 4
+drwxr-xr-x 8 root root 4096 авг 29 21:35 VBoxGuestAdditions-7.0.10
+total 52
+drwx------ 2 eugen eugen 4096 сен  6 18:11 tracker-extract-3-files.1000
+drwx------ 3 root  root  4096 сен  6 18:10 systemd-private-011a205ebfbc4201befd11268ccaa7bb-colord.service-a7mWzM
+drwx------ 2 gdm   gdm   4096 сен  6 18:10 tracker-extract-3-files.128
+drwx------ 3 root  root  4096 сен  6 18:10 systemd-private-011a205ebfbc4201befd11268ccaa7bb-upower.service-uP63am
+drwx------ 3 root  root  4096 сен  6 18:10 systemd-private-011a205ebfbc4201befd11268ccaa7bb-ModemManager.service-e3I1Zq
+drwx------ 3 root  root  4096 сен  6 18:10 systemd-private-011a205ebfbc4201befd11268ccaa7bb-systemd-logind.service-LU4PyR
+drwx------ 3 root  root  4096 сен  6 18:10 systemd-private-011a205ebfbc4201befd11268ccaa7bb-switcheroo-control.service-KQrS6g
+drwx------ 3 root  root  4096 сен  6 18:10 systemd-private-011a205ebfbc4201befd11268ccaa7bb-power-profiles-daemon.service-eHtG4g
+drwx------ 3 root  root  4096 сен  6 18:10 systemd-private-011a205ebfbc4201befd11268ccaa7bb-systemd-timesyncd.service-1KPZki
+drwx------ 3 root  root  4096 сен  6 18:10 systemd-private-011a205ebfbc4201befd11268ccaa7bb-systemd-resolved.service-GBd7MZ
+drwx------ 3 root  root  4096 сен  6 18:10 systemd-private-011a205ebfbc4201befd11268ccaa7bb-systemd-oomd.service-1bBKQs
+drwx------ 3 root  root  4096 сен  6 18:10 snap-private-tmp
+drwxrwxrwt 2 root  root  4096 сен  6 18:10 VMwareDnD
+total 0
+total 24
+lrwxrwxrwx  1 root              root     8 сен  6 19:11 shm -> /dev/shm
+-rw-rw-r--  1 root              utmp  1152 сен  6 18:10 utmp
+srw-rw-rw-  1 root              root     0 сен  6 18:10 snapd-snap.socket
+drwxr-xr-x  2 root              root    40 сен  6 18:10 netns
+drwxr-xr-x  4 root              root    80 сен  6 18:10 snapd
+srw-rw-rw-  1 root              root     0 сен  6 18:10 snapd.socket
+-rw-r--r--  1 root              root     5 сен  6 18:10 gdm3.pid
+drwx--x--x  3 root              gdm     60 сен  6 18:10 gdm3
+-rw-r-----  1 root              root     5 сен  6 18:10 vboxadd-service.sh
+-rw-r--r--  1 root              root     5 сен  6 18:10 VBoxDRMClient
+drwx------  2 root              root    40 сен  6 18:10 udisks2
+drwxr-xr-x  2 root              root    40 сен  6 18:10 alsa
+-rw-r--r--  1 root              root     4 сен  6 18:10 acpid.pid
+drwxr-xr-x  2 root              root    60 сен  6 18:10 irqbalance
+----------  1 root              root     0 сен  6 18:10 crond.reboot
+-rw-r--r--  1 root              root     4 сен  6 18:10 crond.pid
+drwxr-xr-x  3 root              lp     100 сен  6 18:10 cups
+drwxr-xr-x  2 root              root    60 сен  6 18:10 dbus
+drwxr-xr-x  2 root              root    60 сен  6 18:10 uuidd
+srw-rw-rw-  1 root              root     0 сен  6 18:10 acpid.socket
+drwxr-xr-x  2 avahi             avahi   80 сен  6 18:10 avahi-daemon
+drwxr-xr-x  2 root              root    40 сен  6 18:10 openvpn
+drwx--x---  2 root              root    40 сен  6 18:10 openvpn-client
+drwx--x---  2 root              root    40 сен  6 18:10 openvpn-server
+drwxr-x---  3 speech-dispatcher audio  100 сен  6 18:10 speech-dispatcher
+drwxr-xr-x  2 root              root    40 сен  6 18:10 spice-vdagentd
+drwx--x--x  2 root              root    40 сен  6 18:10 sudo
+drwxr-xr-x  3 root              root    60 сен  6 18:10 user
+drwxr-xr-x  2 root              root    40 сен  6 18:10 sendsigs.omit.d
+drwxr-xr-x  2 root              root    60 сен  6 18:10 fsck
+drwxr-xr-x  2 root              root    80 сен  6 18:10 console-setup
+drwxr-xr-x  2 root              root    40 сен  6 18:10 plymouth
+drwxr-xr-x  2 root              root    60 сен  6 18:10 tmpfiles.d
+drwxr-xr-x  3 root              root    60 сен  6 18:10 log
+drwxr-xr-x  2 root              root    80 сен  6 18:10 mount
+prw-------  1 root              root     0 сен  6 18:10 initctl
+drwxr-xr-x  5 root              root   140 сен  6 18:10 NetworkManager
+drwxr-xr-x  3 root              root    60 сен  6 18:10 credentials
+drwxr-xr-x 23 root              root   560 сен  6 18:10 systemd
+drwxrwxrwt  4 root              root   100 сен  6 18:10 lock
+drwxr-xr-x  2 root              root    60 сен  6 18:10 blkid
+drwxr-xr-x  7 root              root   180 сен  6 18:09 udev
+drwx------  2 root              root    80 сен  6 18:09 initramfs
+total 0
+drwxr-xr-x   2 root root 0 сен  6 19:48 hypervisor
+drwxr-xr-x   3 root root 0 сен  6 18:10 power
+drwxr-xr-x   2 root root 0 сен  6 18:10 block
+drwxr-xr-x   5 root root 0 сен  6 18:09 firmware
+drwxr-xr-x   4 root root 0 сен  6 18:09 dev
+drwxr-xr-x  72 root root 0 сен  6 18:09 class
+drwxr-xr-x  16 root root 0 сен  6 18:09 devices
+drwxr-xr-x  46 root root 0 сен  6 18:09 bus
+drwxr-xr-x 170 root root 0 сен  6 18:09 module
+drwxr-xr-x   8 root root 0 сен  6 18:09 fs
+drwxr-xr-x  16 root root 0 сен  6 18:09 kernel
+total 0
+total 48
+drwxrwxrwt 11 root root     4096 сен  6 18:12 tmp
+drwxrwsrwt  2 root whoopsie 4096 сен  6 18:10 crash
+lrwxrwxrwx  1 root root        9 сен  6 14:38 lock -> /run/lock
+lrwxrwxrwx  1 root root        4 сен  6 14:38 run -> /run
+drwxr-xr-x 12 root root     4096 авг  8 01:59 snap
+drwxr-xr-x 16 root root     4096 авг  8 01:58 cache
+drwxr-xr-x 68 root root     4096 авг  8 01:58 lib
+drwxrwsrwt  2 root whoopsie 4096 авг  8 01:55 metrics
+drwxrwxr-x 13 root syslog   4096 авг  8 01:55 log
+drwxr-xr-x  7 root root     4096 авг  8 01:54 spool
+drwxrwsr-x  2 root mail     4096 авг  8 01:52 mail
+drwxr-xr-x  2 root root     4096 авг  8 01:52 opt
+drwxr-xr-x  2 root root     4096 апр 18  2022 backups
+drwxrwsr-x  2 root staff    4096 апр 18  2022 local
+total 0
+crw-rw-rw-  1 root    tty       5,   2 сен  6  2023 ptmx
+drwxrwxrwt  2 root    root          40 сен  6 19:04 shm
+drwxr-xr-x  4 root    root         340 сен  6 18:10 input
+drwxr-xr-x  3 root    root          60 сен  6 18:10 bus
+drwxr-xr-x  2 root    root          60 сен  6 18:10 net
+drwxr-xr-x  2 root    root          60 сен  6 18:10 dma_heap
+drwxrwxrwt  2 root    root          40 сен  6 18:10 mqueue
+brw-rw----  1 root    disk      8,   2 сен  6 18:10 sda2
+brw-rw----  1 root    disk      7,  13 сен  6 18:10 loop13
+brw-rw----  1 root    disk      8,   3 сен  6 18:10 sda3
+drwxr-xr-x  2 root    root          60 сен  6 18:10 mapper
+drwxr-xr-x  3 root    root         180 сен  6 18:10 snd
+crw-rw----  1 root    tty       7,   2 сен  6 18:10 vcs2
+crw-rw----  1 root    tty       7,   5 сен  6 18:10 vcs5
+crw-rw----  1 root    tty       7,   6 сен  6 18:10 vcs6
+crw-rw----  1 root    tty       7, 134 сен  6 18:10 vcsa6
+crw-rw----  1 root    tty       7,  69 сен  6 18:10 vcsu5
+crw-rw----  1 root    tty       7,  70 сен  6 18:10 vcsu6
+crw-rw----  1 root    tty       7,  68 сен  6 18:10 vcsu4
+crw-rw----  1 root    tty       7,   4 сен  6 18:10 vcs4
+crw-rw----  1 root    tty       7, 132 сен  6 18:10 vcsa4
+crw-rw----  1 root    tty       7, 133 сен  6 18:10 vcsa5
+crw-rw----  1 root    tty       7,   3 сен  6 18:10 vcs3
+crw-rw----  1 root    tty       7, 130 сен  6 18:10 vcsa2
+crw-rw----  1 root    tty       7, 131 сен  6 18:10 vcsa3
+crw-rw----  1 root    tty       7,  66 сен  6 18:10 vcsu2
+crw-rw----  1 root    tty       7,  67 сен  6 18:10 vcsu3
+drwxr-xr-x  3 root    root         100 сен  6 18:10 dri
+brw-rw----  1 root    disk      8,   0 сен  6 18:10 sda
+brw-rw----  1 root    disk      8,   1 сен  6 18:10 sda1
+brw-rw----  1 root    disk      7,   8 сен  6 18:10 loop8
+brw-rw----  1 root    disk      7,   9 сен  6 18:10 loop9
+brw-rw----  1 root    disk      7,  10 сен  6 18:10 loop10
+brw-rw----  1 root    disk      7,  11 сен  6 18:10 loop11
+lrwxrwxrwx  1 root    root           3 сен  6 18:10 cdrom -> sr0
+crw-rw----  1 vboxadd root     10, 122 сен  6 18:10 vboxguest
+crw-rw-rw-  1 vboxadd root     10, 121 сен  6 18:10 vboxuser
+brw-rw----  1 root    disk      7,  12 сен  6 18:10 loop12
+crw-rw----  1 root    video    29,   0 сен  6 18:10 fb0
+brw-rw----  1 root    disk      7,   5 сен  6 18:10 loop5
+crw-rw----  1 root    tty       7, 128 сен  6 18:10 vcsa
+crw-rw----  1 root    tty       7, 129 сен  6 18:10 vcsa1
+crw-rw----  1 root    tty       7,  64 сен  6 18:10 vcsu
+crw-rw----  1 root    tty       7,  65 сен  6 18:10 vcsu1
+crw--w----  1 root    tty       4,   9 сен  6 18:10 tty9
+crw--w----  1 root    tty       4,   8 сен  6 18:10 tty8
+crw-------  1 root    root      5,   3 сен  6 18:10 ttyprintk
+crw-rw----  1 root    tty       7,   0 сен  6 18:10 vcs
+crw-rw----  1 root    tty       7,   1 сен  6 18:10 vcs1
+brw-rw----  1 root    disk      7,   2 сен  6 18:10 loop2
+crw--w----  1 root    tty       4,   7 сен  6 18:10 tty7
+brw-rw----  1 root    disk      7,   7 сен  6 18:10 loop7
+crw--w----  1 root    tty       4,  62 сен  6 18:10 tty62
+crw--w----  1 root    tty       4,  58 сен  6 18:10 tty58
+crw--w----  1 root    tty       4,  59 сен  6 18:10 tty59
+crw--w----  1 root    tty       4,   6 сен  6 18:10 tty6
+crw--w----  1 root    tty       4,  60 сен  6 18:10 tty60
+crw--w----  1 root    tty       4,  61 сен  6 18:10 tty61
+crw--w----  1 root    tty       4,  63 сен  6 18:10 tty63
+crw--w----  1 root    tty       4,  55 сен  6 18:10 tty55
+crw--w----  1 root    tty       4,  57 сен  6 18:10 tty57
+crw--w----  1 root    tty       4,  50 сен  6 18:10 tty50
+crw--w----  1 root    tty       4,  52 сен  6 18:10 tty52
+crw--w----  1 root    tty       4,  53 сен  6 18:10 tty53
+crw--w----  1 root    tty       4,  54 сен  6 18:10 tty54
+crw--w----  1 root    tty       4,  56 сен  6 18:10 tty56
+brw-rw----+ 1 root    cdrom    11,   0 сен  6 18:10 sr0
+crw--w----  1 root    tty       4,  48 сен  6 18:10 tty48
+crw--w----  1 root    tty       4,  49 сен  6 18:10 tty49
+crw--w----  1 root    tty       4,   5 сен  6 18:10 tty5
+crw--w----  1 root    tty       4,  51 сен  6 18:10 tty51
+crw--w----  1 root    tty       4,  43 сен  6 18:10 tty43
+crw--w----  1 root    tty       4,  44 сен  6 18:10 tty44
+crw--w----  1 root    tty       4,  45 сен  6 18:10 tty45
+crw--w----  1 root    tty       4,  46 сен  6 18:10 tty46
+crw--w----  1 root    tty       4,  47 сен  6 18:10 tty47
+brw-rw----  1 root    disk      7,   0 сен  6 18:10 loop0
+crw--w----  1 root    tty       4,   4 сен  6 18:10 tty4
+crw--w----  1 root    tty       4,  40 сен  6 18:10 tty40
+crw--w----  1 root    tty       4,  41 сен  6 18:10 tty41
+crw--w----  1 root    tty       4,  42 сен  6 18:10 tty42
+crw--w----  1 root    tty       4,  39 сен  6 18:10 tty39
+crw-------  1 root    root     10,   1 сен  6 18:10 psaux
+crw--w----  1 root    tty       4,  34 сен  6 18:10 tty34
+crw--w----  1 root    tty       4,  36 сен  6 18:10 tty36
+crw--w----  1 root    tty       4,  37 сен  6 18:10 tty37
+crw--w----  1 root    tty       4,  38 сен  6 18:10 tty38
+crw--w----  1 root    tty       4,  31 сен  6 18:10 tty31
+crw--w----  1 root    tty       4,  32 сен  6 18:10 tty32
+crw--w----  1 root    tty       4,  33 сен  6 18:10 tty33
+crw--w----  1 root    tty       4,  35 сен  6 18:10 tty35
+brw-rw----  1 root    disk      7,   6 сен  6 18:10 loop6
+crw--w----  1 root    tty       4,  27 сен  6 18:10 tty27
+crw--w----  1 root    tty       4,  28 сен  6 18:10 tty28
+crw--w----  1 root    tty       4,   3 сен  6 18:10 tty3
+crw--w----  1 root    tty       4,  30 сен  6 18:10 tty30
+crw--w----  1 root    tty       4,  23 сен  6 18:10 tty23
+crw--w----  1 root    tty       4,  24 сен  6 18:10 tty24
+crw--w----  1 root    tty       4,  25 сен  6 18:10 tty25
+crw--w----  1 root    tty       4,  26 сен  6 18:10 tty26
+crw--w----  1 root    tty       4,  29 сен  6 18:10 tty29
+crw--w----  1 root    tty       4,  21 сен  6 18:10 tty21
+crw--w----  1 root    tty       4,  22 сен  6 18:10 tty22
+crw--w----  1 root    tty       4,  18 сен  6 18:10 tty18
+crw--w----  1 root    tty       4,  19 сен  6 18:10 tty19
+crw--w----  1 eugen   tty       4,   2 сен  6 18:10 tty2
+crw--w----  1 root    tty       4,  14 сен  6 18:10 tty14
+crw--w----  1 root    tty       4,  15 сен  6 18:10 tty15
+crw--w----  1 root    tty       4,  16 сен  6 18:10 tty16
+crw--w----  1 root    tty       4,  17 сен  6 18:10 tty17
+crw--w----  1 root    tty       4,  20 сен  6 18:10 tty20
+crw-rw-rw-  1 root    tty       5,   0 сен  6 18:10 tty
+crw--w----  1 root    tty       4,   0 сен  6 18:10 tty0
+crw--w----  1 root    tty       4,   1 сен  6 18:10 tty1
+crw--w----  1 root    tty       4,  10 сен  6 18:10 tty10
+crw--w----  1 root    tty       4,  11 сен  6 18:10 tty11
+crw--w----  1 root    tty       4,  12 сен  6 18:10 tty12
+crw--w----  1 root    tty       4,  13 сен  6 18:10 tty13
+crw--w----  1 root    tty       5,   1 сен  6 18:10 console
+brw-rw----  1 root    disk      7,   3 сен  6 18:10 loop3
+brw-rw----  1 root    disk      7,   1 сен  6 18:10 loop1
+crw-------  1 root    root     10, 227 сен  6 18:10 mcelog
+crw-r-----  1 root    kmem      1,   1 сен  6 18:10 mem
+crw-------  1 root    root    108,   0 сен  6 18:10 ppp
+crw-------  1 root    root     10, 126 сен  6 18:10 userfaultfd
+crw-------  1 root    root     10, 127 сен  6 18:10 vga_arbiter
+crw-r-----  1 root    kmem      1,   4 сен  6 18:10 port
+crw-rw-r--+ 1 root    root     10, 242 сен  6 18:10 rfkill
+crw-------  1 root    root     10, 231 сен  6 18:10 snapshot
+crw-rw----  1 root    kvm      10, 124 сен  6 18:10 udmabuf
+crw-------  1 root    root     10, 223 сен  6 18:10 uinput
+brw-rw----  1 root    disk      7,   4 сен  6 18:10 loop4
+crw-rw----  1 root    disk     10, 237 сен  6 18:10 loop-control
+crw-------  1 root    root     10, 228 сен  6 18:10 hpet
+crw-------  1 root    root     10, 183 сен  6 18:10 hwrng
+crw-------  1 root    root     10, 125 сен  6 18:10 ecryptfs
+crw-rw-rw-  1 root    root     10, 229 сен  6 18:10 fuse
+crw-r--r--  1 root    root     10, 235 сен  6 18:10 autofs
+crw-------  1 root    root     10, 123 сен  6 18:10 cpu_dma_latency
+crw-rw-rw-  1 root    root      1,   3 сен  6 18:10 null
+crw-rw-rw-  1 root    root      1,   8 сен  6 18:10 random
+crw-rw-rw-  1 root    root      1,   9 сен  6 18:10 urandom
+crw-rw-rw-  1 root    root      1,   5 сен  6 18:10 zero
+crw-r--r--  1 root    root      1,  11 сен  6 18:10 kmsg
+crw-rw-rw-  1 root    root      1,   7 сен  6 18:10 full
+crw-------  1 root    root    240,   0 сен  6 18:10 hidraw0
+crw-rw----  1 root    dialout   4,  71 сен  6 18:10 ttyS7
+crw-rw----  1 root    dialout   4,  73 сен  6 18:10 ttyS9
+crw-rw----  1 root    dialout   4,  95 сен  6 18:10 ttyS31
+crw-rw----  1 root    dialout   4,  72 сен  6 18:10 ttyS8
+crw-rw----  1 root    dialout   4,  93 сен  6 18:10 ttyS29
+crw-rw----  1 root    dialout   4,  69 сен  6 18:10 ttyS5
+crw-rw----  1 root    dialout   4,  66 сен  6 18:10 ttyS2
+crw-rw----  1 root    dialout   4,  89 сен  6 18:10 ttyS25
+crw-rw----  1 root    disk     21,   1 сен  6 18:10 sg1
+crw-rw----  1 root    dialout   4,  87 сен  6 18:10 ttyS23
+crw-rw----  1 root    dialout   4,  88 сен  6 18:10 ttyS24
+crw-rw----  1 root    dialout   4,  90 сен  6 18:10 ttyS26
+crw-rw----  1 root    dialout   4,  92 сен  6 18:10 ttyS28
+crw-rw----  1 root    dialout   4,  67 сен  6 18:10 ttyS3
+crw-rw----  1 root    dialout   4,  94 сен  6 18:10 ttyS30
+crw-rw----  1 root    dialout   4,  68 сен  6 18:10 ttyS4
+crw-rw----  1 root    dialout   4,  70 сен  6 18:10 ttyS6
+crw-rw----  1 root    dialout   4,  85 сен  6 18:10 ttyS21
+crw-rw----  1 root    dialout   4,  81 сен  6 18:10 ttyS17
+crw-rw----  1 root    dialout   4,  82 сен  6 18:10 ttyS18
+crw-rw----  1 root    dialout   4,  86 сен  6 18:10 ttyS22
+crw-rw----  1 root    dialout   4,  91 сен  6 18:10 ttyS27
+crw-rw----  1 root    dialout   4,  64 сен  6 18:10 ttyS0
+crw-------  1 root    root     89,   0 сен  6 18:10 i2c-0
+lrwxrwxrwx  1 root    root           4 сен  6 18:10 rtc -> rtc0
+crw-------  1 root    root    248,   0 сен  6 18:10 rtc0
+crw-rw----  1 root    dialout   4,  74 сен  6 18:10 ttyS10
+crw-rw----  1 root    dialout   4,  77 сен  6 18:10 ttyS13
+crw-rw----  1 root    dialout   4,  78 сен  6 18:10 ttyS14
+crw-rw----  1 root    dialout   4,  79 сен  6 18:10 ttyS15
+crw-rw----  1 root    dialout   4,  80 сен  6 18:10 ttyS16
+crw-rw----  1 root    dialout   4,  84 сен  6 18:10 ttyS20
+crw-rw----  1 root    dialout   4,  83 сен  6 18:10 ttyS19
+lrwxrwxrwx  1 root    root          28 сен  6 18:10 log -> /run/systemd/journal/dev-log
+crw-rw----  1 root    dialout   4,  75 сен  6 18:10 ttyS11
+crw-rw----  1 root    dialout   4,  76 сен  6 18:10 ttyS12
+crw-rw----  1 root    dialout   4,  65 сен  6 18:10 ttyS1
+crw-rw----+ 1 root    cdrom    21,   0 сен  6 18:10 sg0
+crw-rw----  1 root    kvm      10, 238 сен  6 18:10 vhost-net
+crw-rw----  1 root    kvm      10, 241 сен  6 18:10 vhost-vsock
+crw-------  1 root    root     10, 234 сен  6 18:10 btrfs-control
+crw-------  1 root    root     10, 203 сен  6 18:10 cuse
+crw-------  1 root    root     10, 144 сен  6 18:10 nvram
+crw-------  1 root    root     10, 239 сен  6 18:10 uhid
+crw-------  1 root    root     10, 240 сен  6 18:10 userio
+drwxr-xr-x  2 root    root          60 сен  6 18:10 vfio
+crw-------  1 root    root     10, 137 сен  6 18:10 vhci
+crw-------  1 root    root     10, 249 сен  6 18:10 zfs
+drwxr-xr-x  6 root    root         120 сен  6 18:10 cpu
+drwxr-xr-x  2 root    root           0 сен  6 18:10 hugepages
+lrwxrwxrwx  1 root    root          12 сен  6 18:10 initctl -> /run/initctl
+lrwxrwxrwx  1 root    root          11 сен  6 18:10 core -> /proc/kcore
+lrwxrwxrwx  1 root    root          13 сен  6 18:10 fd -> /proc/self/fd
+lrwxrwxrwx  1 root    root          15 сен  6 18:10 stderr -> /proc/self/fd/2
+lrwxrwxrwx  1 root    root          15 сен  6 18:10 stdin -> /proc/self/fd/0
+lrwxrwxrwx  1 root    root          15 сен  6 18:10 stdout -> /proc/self/fd/1
+drwxr-xr-x  7 root    root         140 сен  6 18:09 disk
+drwxr-xr-x  2 root    root         420 сен  6 18:09 block
+drwxr-xr-x  2 root    root        3760 сен  6 18:09 char
+drwxr-xr-x  2 root    root           0 сен  6 18:09 pts
+drwxr-xr-x  2 root    root          80 сен  6 18:09 bsg
+total 48
+drwxr-xr-x 2 root root 4096 сен  6 14:46 bin
+-r--r--r-- 1 root root  548 сен  6 14:38 README
+drwxr-xr-x 3 root root 4096 авг  8 01:59 snapd-desktop-integration
+drwxr-xr-x 3 root root 4096 авг  8 01:59 snap-store
+drwxr-xr-x 3 root root 4096 авг  8 01:59 gtk-common-themes
+drwxr-xr-x 4 root root 4096 авг  8 01:59 gnome-42-2204
+drwxr-xr-x 3 root root 4096 авг  8 01:59 gnome-3-38-2004
+drwxr-xr-x 3 root root 4096 авг  8 01:59 bare
+drwxr-xr-x 3 root root 4096 авг  8 01:59 firefox
+drwxr-xr-x 4 root root 4096 авг  8 01:59 core20
+drwxr-xr-x 4 root root 4096 авг  8 01:59 core22
+drwxr-xr-x 3 root root 4096 авг  8 01:58 snapd
+total 185372
+-rw-r--r-- 1 root root 69104587 авг 29 21:52 initrd.img-6.2.0-31-generic
+-rw-r--r-- 1 root root 76075314 авг 29 21:36 initrd.img-6.2.0-26-generic
+-rw-r--r-- 1 root root   275587 авг 29 21:34 config-6.2.0-31-generic
+drwxr-xr-x 6 root root     4096 авг 29 21:34 grub
+lrwxrwxrwx 1 root root       27 авг 29 21:33 initrd.img -> initrd.img-6.2.0-31-generic
+lrwxrwxrwx 1 root root       24 авг 29 21:33 vmlinuz -> vmlinuz-6.2.0-31-generic
+lrwxrwxrwx 1 root root       24 авг 29 21:33 vmlinuz.old -> vmlinuz-6.2.0-26-generic
+-rw------- 1 root root  7967590 авг 29 21:33 System.map-6.2.0-31-generic
+-rw------- 1 root root 13796616 авг 29 21:31 vmlinuz-6.2.0-31-generic
+-rw-r--r-- 1 root root   275465 авг 29 21:25 config-6.2.0-26-generic
+lrwxrwxrwx 1 root root       27 авг 29 21:23 initrd.img.old -> initrd.img-6.2.0-26-generic
+-rw-r--r-- 1 root root 13770312 авг  8 04:18 vmlinuz-6.2.0-26-generic
+-rw------- 1 root root  7963097 июл 13 16:22 System.map-6.2.0-26-generic
+-rw-r--r-- 1 root root   182800 фев  6  2022 memtest86+.bin
+-rw-r--r-- 1 root root   184476 фев  6  2022 memtest86+.elf
+-rw-r--r-- 1 root root   184980 фев  6  2022 memtest86+_multiboot.bin
+drwx------ 3 root root     4096 янв  1  1970 efi
+total 116
+drwxr-xr-x   2 root root  4096 сен  6 15:21 games
+drwxr-xr-x   2 root root 20480 сен  6 15:21 sbin
+drwxr-xr-x 106 root root  4096 сен  6 15:07 lib
+drwxr-xr-x   2 root root 40960 сен  6 14:38 bin
+drwxr-xr-x   6 root root  4096 авг 29 21:36 src
+drwxr-xr-x  40 root root  4096 авг  8 01:56 include
+drwxr-xr-x  22 root root 12288 авг  8 01:56 libexec
+drwxr-xr-x 261 root root 12288 авг  8 01:56 share
+drwxr-xr-x   2 root root  4096 авг  8 01:53 lib64
+drwxr-xr-x   2 root root  4096 авг  8 01:52 lib32
+drwxr-xr-x   2 root root  4096 авг  8 01:52 libx32
+drwxr-xr-x  10 root root  4096 авг  8 01:52 local
+total 0
+dr-xr-xr-x  9 root             root                           0 сен  6 19:48 3029
+dr-xr-xr-x  9 eugen            eugen                          0 сен  6 19:48 3038
+dr-xr-xr-x  9 eugen            eugen                          0 сен  6 19:48 3047
+dr-xr-xr-x  9 eugen            eugen                          0 сен  6 19:48 3064
+dr-xr-xr-x  9 eugen            eugen                          0 сен  6 19:48 2042
+dr-xr-xr-x  9 eugen            eugen                          0 сен  6 19:48 2268
+dr-xr-xr-x  9 eugen            eugen                          0 сен  6 19:48 2277
+dr-xr-xr-x  9 eugen            eugen                          0 сен  6 19:48 2288
+dr-xr-xr-x  9 eugen            eugen                          0 сен  6 19:48 2289
+dr-xr-xr-x  9 root             root                           0 сен  6 19:48 2688
+dr-xr-xr-x  9 root             root                           0 сен  6 19:48 2689
+dr-xr-xr-x  9 root             root                           0 сен  6 19:48 2700
+dr-xr-xr-x  9 root             root                           0 сен  6 19:48 2714
+dr-xr-xr-x  9 root             root                           0 сен  6 19:48 2972
+dr-xr-xr-x  9 root             root                           0 сен  6 19:48 2973
+dr-xr-xr-x  9 eugen            eugen                          0 сен  6 19:11 2733
+dr-xr-xr-x  9 eugen            eugen                          0 сен  6 18:18 2559
+dr-xr-xr-x  9 eugen            eugen                          0 сен  6 18:18 2541
+dr-xr-xr-x  9 eugen            eugen                          0 сен  6 18:18 2536
+dr-xr-xr-x  9 eugen            eugen                          0 сен  6 18:18 2533
+dr-xr-xr-x  9 eugen            eugen                          0 сен  6 18:11 2366
+dr-xr-xr-x  9 eugen            eugen                          0 сен  6 18:10 2327
+dr-xr-xr-x  9 eugen            eugen                          0 сен  6 18:10 2278
+dr-xr-xr-x  9 eugen            eugen                          0 сен  6 18:10 2269
+dr-xr-xr-x  9 eugen            eugen                          0 сен  6 18:10 2044
+dr-xr-xr-x  9 eugen            eugen                          0 сен  6 18:10 2250
+dr-xr-xr-x  9 eugen            eugen                          0 сен  6 18:10 2211
+dr-xr-xr-x  9 eugen            eugen                          0 сен  6 18:10 2181
+dr-xr-xr-x  9 eugen            eugen                          0 сен  6 18:10 2162
+dr-xr-xr-x  9 eugen            eugen                          0 сен  6 18:10 2134
+dr-xr-xr-x  9 eugen            eugen                          0 сен  6 18:10 2086
+dr-xr-xr-x  9 eugen            eugen                          0 сен  6 18:10 2106
+dr-xr-xr-x  9 eugen            eugen                          0 сен  6 18:10 2033
+dr-xr-xr-x  9 eugen            eugen                          0 сен  6 18:10 2048
+dr-xr-xr-x  9 eugen            eugen                          0 сен  6 18:10 2024
+dr-xr-xr-x  9 eugen            eugen                          0 сен  6 18:10 2010
+dr-xr-xr-x  9 eugen            eugen                          0 сен  6 18:10 2023
+dr-xr-xr-x  9 eugen            eugen                          0 сен  6 18:10 1962
+dr-xr-xr-x  9 eugen            eugen                          0 сен  6 18:10 1960
+dr-xr-xr-x  9 eugen            eugen                          0 сен  6 18:10 1976
+dr-xr-xr-x  9 eugen            eugen                          0 сен  6 18:10 1983
+dr-xr-xr-x  9 eugen            eugen                          0 сен  6 18:10 1984
+dr-xr-xr-x  9 eugen            eugen                          0 сен  6 18:10 1985
+dr-xr-xr-x  9 eugen            eugen                          0 сен  6 18:10 1987
+dr-xr-xr-x  9 eugen            eugen                          0 сен  6 18:10 1971
+dr-xr-xr-x  9 eugen            eugen                          0 сен  6 18:10 1965
+dr-xr-xr-x  9 eugen            eugen                          0 сен  6 18:10 1956
+dr-xr-xr-x  9 eugen            eugen                          0 сен  6 18:10 1925
+dr-xr-xr-x  9 eugen            eugen                          0 сен  6 18:10 1945
+dr-xr-xr-x  9 eugen            eugen                          0 сен  6 18:10 1954
+dr-xr-xr-x  9 eugen            eugen                          0 сен  6 18:10 1927
+dr-xr-xr-x  9 eugen            eugen                          0 сен  6 18:10 1924
+dr-xr-xr-x  9 eugen            eugen                          0 сен  6 18:10 1926
+dr-xr-xr-x  9 eugen            eugen                          0 сен  6 18:10 1922
+dr-xr-xr-x  9 eugen            eugen                          0 сен  6 18:10 1919
+dr-xr-xr-x  9 eugen            eugen                          0 сен  6 18:10 1918
+dr-xr-xr-x  9 eugen            eugen                          0 сен  6 18:10 1908
+dr-xr-xr-x  9 eugen            eugen                          0 сен  6 18:10 1909
+dr-xr-xr-x  9 eugen            eugen                          0 сен  6 18:10 1899
+dr-xr-xr-x  9 eugen            eugen                          0 сен  6 18:10 1890
+dr-xr-xr-x  9 eugen            eugen                          0 сен  6 18:10 1887
+dr-xr-xr-x  9 root             root                           0 сен  6 18:10 1564
+dr-xr-xr-x  9 root             root                           0 сен  6 18:10 1597
+dr-xr-xr-x  9 eugen            eugen                          0 сен  6 18:10 1886
+-r--r--r--  1 root             root                           0 сен  6 18:10 bootconfig
+-r--r--r--  1 root             root                           0 сен  6 18:10 buddyinfo
+dr-xr-xr-x  4 root             root                           0 сен  6 18:10 bus
+-r--r--r--  1 root             root                           0 сен  6 18:10 consoles
+-r--r--r--  1 root             root                           0 сен  6 18:10 cpuinfo
+-r--r--r--  1 root             root                           0 сен  6 18:10 crypto
+-r--r--r--  1 root             root                           0 сен  6 18:10 diskstats
+-r--r--r--  1 root             root                           0 сен  6 18:10 dma
+dr-xr-xr-x  3 root             root                           0 сен  6 18:10 driver
+dr-xr-xr-x  3 root             root                           0 сен  6 18:10 dynamic_debug
+-r--r--r--  1 root             root                           0 сен  6 18:10 execdomains
+-r--r--r--  1 root             root                           0 сен  6 18:10 fb
+dr-xr-xr-x  5 root             root                           0 сен  6 18:10 fs
+-r--r--r--  1 root             root                           0 сен  6 18:10 iomem
+-r--r--r--  1 root             root                           0 сен  6 18:10 ioports
+-r--r--r--  1 root             root                           0 сен  6 18:10 kallsyms
+-r--r--r--  1 root             root                           0 сен  6 18:10 keys
+-r--r--r--  1 root             root                           0 сен  6 18:10 key-users
+-r--------  1 root             root                           0 сен  6 18:10 kpagecgroup
+-r--------  1 root             root                           0 сен  6 18:10 kpagecount
+-r--------  1 root             root                           0 сен  6 18:10 kpageflags
+-r--r--r--  1 root             root                           0 сен  6 18:10 loadavg
+-r--r--r--  1 root             root                           0 сен  6 18:10 locks
+-r--r--r--  1 root             root                           0 сен  6 18:10 misc
+-rw-r--r--  1 root             root                           0 сен  6 18:10 mtrr
+-r--------  1 root             root                           0 сен  6 18:10 pagetypeinfo
+-r--r--r--  1 root             root                           0 сен  6 18:10 partitions
+-r--r--r--  1 root             root                           0 сен  6 18:10 schedstat
+dr-xr-xr-x  5 root             root                           0 сен  6 18:10 scsi
+-r--------  1 root             root                           0 сен  6 18:10 slabinfo
+-r--r--r--  1 root             root                           0 сен  6 18:10 softirqs
+--w-------  1 root             root                           0 сен  6 18:10 sysrq-trigger
+dr-xr-xr-x  5 root             root                           0 сен  6 18:10 sysvipc
+-r--------  1 root             root                           0 сен  6 18:10 timer_list
+dr-xr-xr-x  6 root             root                           0 сен  6 18:10 tty
+-r--r--r--  1 root             root                           0 сен  6 18:10 version
+-r--r--r--  1 root             root                           0 сен  6 18:10 version_signature
+-r--------  1 root             root                           0 сен  6 18:10 vmallocinfo
+-r--r--r--  1 root             root                           0 сен  6 18:10 vmstat
+-r--r--r--  1 root             root                           0 сен  6 18:10 zoneinfo
+dr-xr-xr-x  9 eugen            eugen                          0 сен  6 18:10 1879
+dr-xr-xr-x  9 eugen            eugen                          0 сен  6 18:10 1873
+dr-xr-xr-x  9 eugen            eugen                          0 сен  6 18:10 1866
+dr-xr-xr-x  9 eugen            eugen                          0 сен  6 18:10 1860
+dr-xr-xr-x  9 eugen            eugen                          0 сен  6 18:10 1856
+dr-xr-xr-x  9 eugen            eugen                          0 сен  6 18:10 1849
+dr-xr-xr-x  9 eugen            eugen                          0 сен  6 18:10 1844
+dr-xr-xr-x  9 eugen            eugen                          0 сен  6 18:10 1818
+dr-xr-xr-x  9 eugen            eugen                          0 сен  6 18:10 1807
+dr-xr-xr-x  9 eugen            eugen                          0 сен  6 18:10 1765
+dr-xr-xr-x  9 eugen            eugen                          0 сен  6 18:10 1755
+dr-xr-xr-x  9 eugen            eugen                          0 сен  6 18:10 1757
+dr-xr-xr-x  9 eugen            eugen                          0 сен  6 18:10 1738
+dr-xr-xr-x  9 eugen            eugen                          0 сен  6 18:10 1724
+dr-xr-xr-x  9 eugen            eugen                          0 сен  6 18:10 1646
+dr-xr-xr-x  9 eugen            eugen                          0 сен  6 18:10 1702
+dr-xr-xr-x  9 root             eugen                          0 сен  6 18:10 1671
+dr-xr-xr-x  9 eugen            eugen                          0 сен  6 18:10 1657
+dr-xr-xr-x  9 eugen            eugen                          0 сен  6 18:10 1649
+dr-xr-xr-x  9 eugen            eugen                          0 сен  6 18:10 1639
+dr-xr-xr-x  9 eugen            eugen                          0 сен  6 18:10 1640
+dr-xr-xr-x  9 eugen            eugen                          0 сен  6 18:10 1628
+dr-xr-xr-x  9 eugen            eugen                          0 сен  6 18:10 1624
+dr-xr-xr-x  9 eugen            eugen                          0 сен  6 18:10 1622
+dr-xr-xr-x  9 eugen            eugen                          0 сен  6 18:10 1607
+dr-xr-xr-x  9 eugen            eugen                          0 сен  6 18:10 1604
+dr-xr-xr-x  9 eugen            eugen                          0 сен  6 18:10 1605
+dr-xr-xr-x  9 eugen            eugen                          0 сен  6 18:10 1606
+dr-xr-xr-x  9 eugen            eugen                          0 сен  6 18:10 1598
+dr-xr-xr-x  9 eugen            eugen                          0 сен  6 18:10 1596
+dr-xr-xr-x  9 root             eugen                          0 сен  6 18:10 1582
+dr-xr-xr-x  9 colord           colord                         0 сен  6 18:10 1508
+dr-xr-xr-x  9 root             root                           0 сен  6 18:10 1344
+dr-xr-xr-x  9 root             root                           0 сен  6 18:10 1336
+dr-xr-xr-x 12 root             root                           0 сен  6 18:10 asound
+dr-xr-xr-x  9 rtkit            rtkit                          0 сен  6 18:10 1158
+dr-xr-xr-x  9 root             root                           0 сен  6 18:10 1088
+dr-xr-xr-x  9 root             root                           0 сен  6 18:10 1072
+dr-xr-xr-x  9 root             root                           0 сен  6 18:10 1075
+dr-xr-xr-x  9 root             root                           0 сен  6 18:10 248
+dr-xr-xr-x  9 root             root                           0 сен  6 18:10 297
+dr-xr-xr-x  9 root             root                           0 сен  6 18:10 318
+dr-xr-xr-x  9 avahi            avahi                          0 сен  6 18:10 641
+dr-xr-xr-x  9 kernoops         adm                            0 сен  6 18:10 779
+dr-xr-xr-x  9 kernoops         adm                            0 сен  6 18:10 773
+dr-xr-xr-x  9 root             root                           0 сен  6 18:10 766
+dr-xr-xr-x  9 lp               lp                             0 сен  6 18:10 706
+dr-xr-xr-x  9 lp               lp                             0 сен  6 18:10 704
+dr-xr-xr-x  9 root             root                           0 сен  6 18:10 702
+dr-xr-xr-x  9 root             root                           0 сен  6 18:10 673
+dr-xr-xr-x  9 root             root                           0 сен  6 18:10 662
+-r--r--r--  1 root             root                           0 сен  6 18:10 interrupts
+-r--r--r--  1 root             root                           0 сен  6 18:10 stat
+dr-xr-xr-x  9 root             root                           0 сен  6 18:10 633
+dr-xr-xr-x  9 root             root                           0 сен  6 18:10 622
+dr-xr-xr-x  9 root             root                           0 сен  6 18:10 624
+-r--------  1 root             root                           0 сен  6 18:10 kmsg
+dr-xr-xr-x  9 root             root                           0 сен  6 18:10 619
+dr-xr-xr-x  9 root             root                           0 сен  6 18:10 612
+dr-xr-xr-x  9 syslog           syslog                         0 сен  6 18:10 609
+dr-xr-xr-x  9 root             root                           0 сен  6 18:10 608
+dr-xr-xr-x  9 root             root                           0 сен  6 18:10 607
+dr-xr-xr-x  9 root             root                           0 сен  6 18:10 606
+dr-xr-xr-x  9 root             root                           0 сен  6 18:10 605
+dr-xr-xr-x 24 root             root                           0 сен  6 18:10 irq
+-r--r--r--  1 root             root                           0 сен  6 18:10 modules
+dr-xr-xr-x  9 root             root                           0 сен  6 18:10 597
+dr-xr-xr-x  9 messagebus       messagebus                     0 сен  6 18:10 595
+dr-xr-xr-x  9 root             root                           0 сен  6 18:10 593
+dr-xr-xr-x  9 avahi            avahi                          0 сен  6 18:10 592
+dr-xr-xr-x  3 root             root                           0 сен  6 18:10 acpi
+dr-xr-xr-x  9 root             root                           0 сен  6 18:10 589
+dr-xr-xr-x  9 root             root                           0 сен  6 18:10 588
+dr-xr-xr-x  9 systemd-timesync systemd-timesync               0 сен  6 18:10 529
+dr-xr-xr-x  9 systemd-resolve  systemd-resolve                0 сен  6 18:10 471
+dr-xr-xr-x  9 systemd-oom      systemd-oom                    0 сен  6 18:10 465
+dr-xr-xr-x  5 root             root                           0 сен  6 18:10 pressure
+lrwxrwxrwx  1 root             root                          11 сен  6 18:10 mounts -> self/mounts
+-r--r--r--  1 root             root                           0 сен  6 18:10 mdstat
+dr-xr-xr-x  9 root             root                           0 сен  6 18:10 262
+-r--r--r--  1 root             root                           0 сен  6 18:10 meminfo
+dr-xr-xr-x  9 root             root                           0 сен  6 18:10 214
+-r--r--r--  1 root             root                           0 сен  6 18:10 devices
+lrwxrwxrwx  1 root             root                           8 сен  6 18:10 net -> self/net
+-r--r--r--  1 root             root                           0 сен  6 18:10 swaps
+dr-xr-xr-x  9 root             root                           0 сен  6 18:10 10
+dr-xr-xr-x  9 root             root                           0 сен  6 18:10 11
+dr-xr-xr-x  9 root             root                           0 сен  6 18:10 111
+dr-xr-xr-x  9 root             root                           0 сен  6 18:10 12
+dr-xr-xr-x  9 root             root                           0 сен  6 18:10 125
+dr-xr-xr-x  9 root             root                           0 сен  6 18:10 13
+dr-xr-xr-x  9 root             root                           0 сен  6 18:10 14
+dr-xr-xr-x  9 root             root                           0 сен  6 18:10 143
+dr-xr-xr-x  9 root             root                           0 сен  6 18:10 144
+dr-xr-xr-x  9 root             root                           0 сен  6 18:10 148
+dr-xr-xr-x  9 root             root                           0 сен  6 18:10 15
+dr-xr-xr-x  9 root             root                           0 сен  6 18:10 16
+dr-xr-xr-x  9 root             root                           0 сен  6 18:10 17
+dr-xr-xr-x  9 root             root                           0 сен  6 18:10 174
+dr-xr-xr-x  9 root             root                           0 сен  6 18:10 175
+dr-xr-xr-x  9 root             root                           0 сен  6 18:10 19
+dr-xr-xr-x  9 root             root                           0 сен  6 18:10 2
+dr-xr-xr-x  9 root             root                           0 сен  6 18:10 20
+dr-xr-xr-x  9 root             root                           0 сен  6 18:10 21
+dr-xr-xr-x  9 root             root                           0 сен  6 18:10 22
+dr-xr-xr-x  9 root             root                           0 сен  6 18:10 23
+dr-xr-xr-x  9 root             root                           0 сен  6 18:10 25
+dr-xr-xr-x  9 root             root                           0 сен  6 18:10 26
+dr-xr-xr-x  9 root             root                           0 сен  6 18:10 27
+dr-xr-xr-x  9 root             root                           0 сен  6 18:10 28
+dr-xr-xr-x  9 root             root                           0 сен  6 18:10 29
+dr-xr-xr-x  9 root             root                           0 сен  6 18:10 3
+dr-xr-xr-x  9 root             root                           0 сен  6 18:10 31
+dr-xr-xr-x  9 root             root                           0 сен  6 18:10 32
+dr-xr-xr-x  9 root             root                           0 сен  6 18:10 33
+dr-xr-xr-x  9 root             root                           0 сен  6 18:10 34
+dr-xr-xr-x  9 root             root                           0 сен  6 18:10 35
+dr-xr-xr-x  9 root             root                           0 сен  6 18:10 37
+dr-xr-xr-x  9 root             root                           0 сен  6 18:10 38
+dr-xr-xr-x  9 root             root                           0 сен  6 18:10 39
+dr-xr-xr-x  9 root             root                           0 сен  6 18:10 4
+dr-xr-xr-x  9 root             root                           0 сен  6 18:10 40
+dr-xr-xr-x  9 root             root                           0 сен  6 18:10 41
+dr-xr-xr-x  9 root             root                           0 сен  6 18:10 42
+dr-xr-xr-x  9 root             root                           0 сен  6 18:10 43
+dr-xr-xr-x  9 root             root                           0 сен  6 18:10 45
+dr-xr-xr-x  9 root             root                           0 сен  6 18:10 46
+dr-xr-xr-x  9 root             root                           0 сен  6 18:10 47
+dr-xr-xr-x  9 root             root                           0 сен  6 18:10 48
+dr-xr-xr-x  9 root             root                           0 сен  6 18:10 49
+dr-xr-xr-x  9 root             root                           0 сен  6 18:10 5
+dr-xr-xr-x  9 root             root                           0 сен  6 18:10 50
+dr-xr-xr-x  9 root             root                           0 сен  6 18:10 51
+dr-xr-xr-x  9 root             root                           0 сен  6 18:10 52
+dr-xr-xr-x  9 root             root                           0 сен  6 18:10 53
+dr-xr-xr-x  9 root             root                           0 сен  6 18:10 54
+dr-xr-xr-x  9 root             root                           0 сен  6 18:10 55
+dr-xr-xr-x  9 root             root                           0 сен  6 18:10 56
+dr-xr-xr-x  9 root             root                           0 сен  6 18:10 57
+dr-xr-xr-x  9 root             root                           0 сен  6 18:10 59
+dr-xr-xr-x  9 root             root                           0 сен  6 18:10 6
+dr-xr-xr-x  9 root             root                           0 сен  6 18:10 60
+dr-xr-xr-x  9 root             root                           0 сен  6 18:10 61
+dr-xr-xr-x  9 root             root                           0 сен  6 18:10 62
+dr-xr-xr-x  9 root             root                           0 сен  6 18:10 63
+dr-xr-xr-x  9 root             root                           0 сен  6 18:10 64
+dr-xr-xr-x  9 root             root                           0 сен  6 18:10 65
+dr-xr-xr-x  9 root             root                           0 сен  6 18:10 66
+dr-xr-xr-x  9 root             root                           0 сен  6 18:10 67
+dr-xr-xr-x  9 root             root                           0 сен  6 18:10 68
+dr-xr-xr-x  9 root             root                           0 сен  6 18:10 69
+dr-xr-xr-x  9 root             root                           0 сен  6 18:10 73
+dr-xr-xr-x  9 root             root                           0 сен  6 18:10 74
+dr-xr-xr-x  9 root             root                           0 сен  6 18:10 8
+dr-xr-xr-x  9 root             root                           0 сен  6 18:10 84
+dr-xr-xr-x  9 root             root                           0 сен  6 18:10 86
+dr-xr-xr-x  9 root             root                           0 сен  6 18:10 87
+dr-xr-xr-x  9 root             root                           0 сен  6 18:10 91
+-r--------  1 root             root             140737471590400 сен  6 18:10 kcore
+-r--r--r--  1 root             root                           0 сен  6 18:10 cgroups
+lrwxrwxrwx  1 root             root                           0 сен  6 18:10 thread-self -> 3064/task/3064
+-r--r--r--  1 root             root                           0 сен  6 18:09 uptime
+dr-xr-xr-x  9 root             root                           0 сен  6 18:09 1
+-r--r--r--  1 root             root                           0 сен  6 18:09 filesystems
+dr-xr-xr-x  1 root             root                           0 сен  6 18:09 sys
+lrwxrwxrwx  1 root             root                           0 сен  6 18:09 self -> 3064
+-r--r--r--  1 root             root                         105 сен  6 18:09 cmdline
+total 4
+drwxr-x--- 15 eugen eugen 4096 сен  6 19:06 eugen
+total 1140
+drwxr-xr-x  2 root root    4096 сен  6 19:06 cron.monthly
+drwxr-xr-x  2 root root    4096 сен  6 19:06 cron.weekly
+-rw-r--r--  1 root root     111 сен  6 18:15 magic
+drwxr-xr-x  2 root root    4096 сен  6 18:15 cron.daily
+drwxr-xr-x  5 root lp      4096 сен  6 18:10 cups
+-rw-r--r--  1 root root     335 сен  6 18:10 anacrontab
+drwxr-xr-x  2 root root    4096 сен  6 15:17 cron.hourly
+-rw-r--r--  1 root root    5217 сен  6 14:54 manpath.config
+-rw-r--r--  1 root root   11204 сен  6 14:52 nanorc
+drwxr-xr-x  2 root root    4096 сен  6 14:46 modules-load.d
+drwxr-xr-x  2 root root    4096 сен  6 14:46 rc1.d
+drwxr-xr-x  2 root root    4096 сен  6 14:46 rc2.d
+drwxr-xr-x  2 root root    4096 сен  6 14:46 rc3.d
+drwxr-xr-x  2 root root    4096 сен  6 14:46 rc4.d
+drwxr-xr-x  2 root root    4096 сен  6 14:46 rc5.d
+drwxr-xr-x  4 root root    4096 сен  6 14:46 openvpn
+drwxr-xr-x  2 root root    4096 сен  6 14:46 netplan
+-rw-r--r--  1 root root    1748 сен  6 14:41 inputrc
+drwxr-xr-x  2 root root    4096 сен  6 14:41 bash_completion.d
+drwxr-xr-x  2 root root    4096 сен  6 14:41 init.d
+-rw-r--r--  1 root root    2319 сен  6 14:41 bash.bashrc
+-rw-r--r--  1 root root      14 сен  6 14:39 timezone
+-rw-r--r--  1 root root     582 сен  6 14:38 profile
+drwxr-xr-x  2 root root    4096 сен  6 14:38 profile.d
+lrwxrwxrwx  1 root root      23 сен  6 14:38 vtrgb -> /etc/alternatives/vtrgb
+-rw-r--r--  1 root root     694 сен  6 14:38 fuse.conf
+-rw-r--r--  1 root root    2584 сен  6 14:38 gai.conf
+drwxr-xr-x  2 root root    4096 сен  6 14:38 environment.d
+-rw-r--r--  1 root root   10734 сен  6 14:38 login.defs
+-rw-r--r--  1 root root    2969 сен  6 14:38 debconf.conf
+-rw-r--r--  1 root root    1308 сен  6 14:38 kerneloops.conf
+-rw-rw-r--  1 root root       3 сен  6 14:38 papersize
+-rw-r--r--  1 root root       7 сен  6 14:38 hostname
+-rw-r--r--  1 root root     685 сен  6 14:38 e2scrub.conf
+drwxr-xr-x  2 root root    4096 сен  6 14:38 rsyslog.d
+-rw-r--r--  1 root root      92 сен  6 14:38 host.conf
+-rw-r--r--  1 root root     251 сен  6 14:38 hosts
+lrwxrwxrwx  1 root root      39 сен  6 14:38 resolv.conf -> ../run/systemd/resolve/stub-resolv.conf
+-rw-r--r--  1 root root    1382 сен  6 14:38 rsyslog.conf
+-rw-r--r--  1 root root     128 сен  6 14:38 shells
+-rw-r-----  1 root shadow  1558 сен  6 14:38 shadow
+-rw-r--r--  1 root root     106 сен  6 14:38 environment
+drwxr-xr-x  2 root root    4096 сен  6 14:38 cron.d
+-rw-r--r--  1 root root    1136 сен  6 14:38 crontab
+lrwxrwxrwx  1 root root      21 сен  6 14:38 os-release -> ../usr/lib/os-release
+drwxr-xr-x  7 root root    4096 сен  6 14:38 apparmor.d
+lrwxrwxrwx  1 root root      19 сен  6 14:38 mtab -> ../proc/self/mounts
+-rw-r--r--  1 root root    2996 сен  6 14:38 locale.alias
+drwxr-xr-x  2 root root    4096 сен  6 14:38 binfmt.d
+-rw-rw-r--  1 root root     665 сен  6 14:38 fstab
+-rw-r--r--  1 root root    4436 сен  6 14:38 hdparm.conf
+lrwxrwxrwx  1 root root      33 сен  6 14:38 localtime -> /usr/share/zoneinfo/Europe/Moscow
+-rw-r--r--  1 root root    2355 сен  6 14:38 sysctl.conf
+drwxr-xr-x  2 root root    4096 сен  6 14:38 sysctl.d
+drwxr-xr-x  2 root root    4096 сен  6 14:38 tmpfiles.d
+-rw-r--r--  1 root root     542 сен  6 14:38 nsswitch.conf
+-rw-r--r--  1 root root    1078 сен  6 14:38 group
+-rw-r--r--  1 root root    2932 сен  6 14:38 passwd
+-r--r--r--  1 root root      33 сен  6 14:38 machine-id
+-rw-r--r--  1 root root     195 сен  6 14:38 modules
+-rw-r--r--  1 root root   58663 сен  6 14:38 ld.so.cache
+drwxr-xr-x  2 root root    4096 сен  6 14:38 modprobe.d
+-rw-r-----  1 root shadow   888 авг 29 21:37 gshadow
+-rw-r--r--  1 root root    1073 авг 29 21:37 group-
+-rw-r-----  1 root shadow   883 авг 29 21:37 gshadow-
+drwxr-xr-x  2 root root    4096 авг 29 21:36 depmod.d
+drwxr-xr-x  2 root root    4096 авг 29 21:35 ld.so.conf.d
+drwxr-xr-x  2 root root    4096 авг 29 21:33 rc0.d
+drwxr-xr-x  2 root root    4096 авг 29 21:33 rc6.d
+-rw-r--r--  1 root root     110 авг 29 21:33 kernel-img.conf
+drwxr-xr-x  4 root root    4096 авг 29 21:31 vmware-tools
+drwxr-xr-x  2 root root    4096 авг 29 21:30 rcS.d
+drwxr-xr-x  3 root root    4096 авг 29 21:30 default
+drwxr-xr-x  2 root root    4096 авг 29 21:30 logrotate.d
+drwxr-xr-x  2 root root    4096 авг 29 21:30 pam.d
+drwxr-xr-x  2 root root    4096 авг 29 21:28 sudoers.d
+drwxr-xr-x  2 root root    4096 авг 29 21:28 init
+-rw-r--r--  1 root root   36929 авг 29 21:28 mailcap
+-rw-r--r--  1 root root     449 авг 29 21:28 mailcap.order
+-rw-r--r--  1 root root    9452 авг 29 21:26 locale.gen
+drwxr-xr-x  2 root root    4096 авг 29 21:25 grub.d
+-rw-r--r--  1 root root      34 авг 29 21:25 ld.so.conf
+drwxr-xr-x  2 root root    4096 авг 29 21:23 libpaper.d
+-rw-r--r--  1 root root    1260 авг 29 21:23 ucf.conf
+-rw-r-----  1 root shadow  1536 авг 29 21:23 shadow-
+drwxr-xr-x  2 root root    4096 авг 29 21:23 skel
+-rw-r--r--  1 root root      19 авг 29 21:23 subgid
+-rw-r--r--  1 root root      19 авг 29 21:23 subuid
+-rw-r--r--  1 root root    2887 авг 29 21:23 passwd-
+-rw-r--r--  1 root root    3028 авг 29 21:23 adduser.conf
+-rw-r--r--  1 root root       0 авг 29 21:23 subgid-
+-rw-r--r--  1 root root       0 авг 29 21:23 subuid-
+-rw-r--r--  1 root root   12813 авг 29 21:22 services
+-rw-r--r--  1 root root     769 авг 29 21:22 appstream.conf
+lrwxrwxrwx  1 root root      13 авг 29 21:15 rmt -> /usr/sbin/rmt
+drwxr-xr-x  8 root root    4096 авг  8 01:59 apt
+drwxr-xr-x  2 root root    4096 авг  8 01:57 dictionaries-common
+drwxr-xr-x  2 root root    4096 авг  8 01:56 alternatives
+-rw-r--r--  1 root root       4 авг  8 01:56 hostid
+drwxr-xr-x  2 root root    4096 авг  8 01:55 xml
+drwxr-xr-x  3 root root    4096 авг  8 01:55 sgml
+drwxr-xr-x  8 root root    4096 авг  8 01:55 gdm3
+drwxr-xr-x  2 root root    4096 авг  8 01:55 hp
+drwxr-xr-x  2 root root    4096 авг  8 01:55 insserv.conf.d
+drwxr-xr-x 12 root root    4096 авг  8 01:55 X11
+drwxr-xr-x  4 root root    4096 авг  8 01:55 pulse
+drwxr-xr-x  2 root root    4096 авг  8 01:55 geoclue
+drwxr-xr-x  2 root root    4096 авг  8 01:55 gtk-3.0
+drwxr-xr-x  2 root root    4096 авг  8 01:55 thunderbird
+drwxr-xr-x  3 root root    4096 авг  8 01:55 update-manager
+drwxr-xr-x  2 root root    4096 авг  8 01:55 update-motd.d
+drwxr-xr-x  3 root root    4096 авг  8 01:55 sane.d
+drwxr-xr-x  4 root root    4096 авг  8 01:55 apport
+drwxr-xr-x  2 root root    4096 авг  8 01:55 cupshelpers
+drwxr-xr-x  3 root root    4096 авг  8 01:55 libreoffice
+drwxr-xr-x  3 root root    4096 авг  8 01:55 fwupd
+-rw-r--r--  1 root root    7649 авг  8 01:55 pnm2ppa.conf
+-rw-r-----  1 root root      33 авг  8 01:55 brlapi.key
+drwxr-xr-x  2 root root    4096 авг  8 01:55 PackageKit
+drwxr-xr-x  3 root root    4096 авг  8 01:55 gdb
+drwxr-xr-x  4 root root    4096 авг  8 01:55 speech-dispatcher
+drwxr-xr-x  7 root root    4096 авг  8 01:55 NetworkManager
+drwxr-xr-x  2 root root    4096 авг  8 01:55 ipp-usb
+drwxr-xr-x  2 root root    4096 авг  8 01:55 udisks2
+drwxr-xr-x  3 root root    4096 авг  8 01:55 avahi
+drwxr-xr-x  2 root root    4096 авг  8 01:55 wpa_supplicant
+drwxr-xr-x  3 root root    4096 авг  8 01:55 ufw
+drwxr-xr-x  5 root root    4096 авг  8 01:55 initramfs-tools
+drwxr-xr-x  2 root root    4096 авг  8 01:55 thermald
+drwxr-xr-x  2 root root    4096 авг  8 01:55 groff
+drwxr-xr-x  2 root root    4096 авг  8 01:55 cracklib
+drwxr-xr-x  2 root root    4096 авг  8 01:55 UPower
+drwxr-xr-x  4 root root    4096 авг  8 01:55 fonts
+drwxr-xr-x  3 root root    4096 авг  8 01:55 acpi
+drwxr-xr-x  8 root dip     4096 авг  8 01:55 ppp
+drwxr-xr-x  2 root root    4096 авг  8 01:54 gtk-2.0
+drwxr-xr-x  2 root root    4096 авг  8 01:54 libnl-3
+drwxr-xr-x  5 root root    4096 авг  8 01:54 systemd
+drwxr-s---  2 root dip     4096 авг  8 01:54 chatscripts
+drwxr-xr-x  2 root root    4096 авг  8 01:54 pcmcia
+-rw-r--r--  1 root root     411 авг  8 01:54 hosts.allow
+-rw-r--r--  1 root root     711 авг  8 01:54 hosts.deny
+drwxr-xr-x  2 root root    4096 авг  8 01:54 bluetooth
+drwxr-xr-x  2 root root    4096 авг  8 01:54 ldap
+drwxr-xr-x  2 root root    4096 авг  8 01:54 sensors.d
+drwxr-xr-x  2 root root    4096 авг  8 01:54 gnome
+drwxr-xr-x  2 root root    4096 авг  8 01:54 snmp
+drwxr-xr-x  4 root root    4096 авг  8 01:54 security
+drwxr-xr-x  7 root root    4096 авг  8 01:54 brltty
+drwxr-xr-x  3 root root    4096 авг  8 01:54 ifplugd
+drwxr-xr-x  6 root root    4096 авг  8 01:54 network
+drwxr-xr-x  4 root root    4096 авг  8 01:54 ModemManager
+drwxr-xr-x  7 root root    4096 авг  8 01:54 kernel
+drwxr-xr-x  5 root root    4096 авг  8 01:54 vulkan
+drwxr-xr-x  4 root root    4096 авг  8 01:54 dconf
+drwxr-xr-x  3 root root    4096 авг  8 01:54 pm
+drwxr-xr-x  6 root root    4096 авг  8 01:54 xdg
+drwxr-xr-x  3 root root    4096 авг  8 01:54 libblockdev
+drwxr-xr-x  4 root root    4096 авг  8 01:54 pki
+drwxr-xr-x  4 root root    4096 авг  8 01:54 logcheck
+drwxr-xr-x  4 root root    4096 авг  8 01:53 ghostscript
+drwxr-xr-x  3 root root    4096 авг  8 01:53 glvnd
+drwxr-xr-x  3 root root    4096 авг  8 01:53 emacs
+drwxr-xr-x  4 root root    4096 авг  8 01:53 polkit-1
+drwxr-xr-x  3 root root    4096 авг  8 01:53 firefox
+drwxr-xr-x  5 root root    4096 авг  8 01:53 apm
+drwxr-xr-x  3 root root    4096 авг  8 01:53 alsa
+drwxr-xr-x  3 root root    4096 авг  8 01:53 perl
+drwxr-xr-x  3 root root    4096 авг  8 01:53 apparmor
+drwxr-xr-x  3 root root    4096 авг  8 01:53 ssh
+drwxr-xr-x  4 root root    4096 авг  8 01:53 udev
+drwxr-xr-x  2 root root    4096 авг  8 01:53 ubuntu-advantage
+-rw-r--r--  1 root root    6253 авг  8 01:53 ca-certificates.conf
+drwxr-xr-x  4 root root    4096 авг  8 01:53 ssl
+drwxr-xr-x  2 root root    4096 авг  8 01:53 vim
+drwxr-xr-x  4 root root    4096 авг  8 01:53 dhcp
+drwxr-xr-x  2 root root    4096 авг  8 01:53 python3.10
+drwxr-xr-x  4 root root    4096 авг  8 01:53 dpkg
+drwxr-xr-x  2 root root    4096 авг  8 01:53 terminfo
+drwxr-xr-x  2 root root    4096 авг  8 01:53 console-setup
+drwxr-xr-x  2 root root    4096 авг  8 01:53 python3
+drwxr-xr-x  4 root root    4096 авг  8 01:53 iproute2
+-rw-r--r--  1 root root    5529 авг  8 01:53 ca-certificates.conf.dpkg-old
+drwxr-xr-x  2 root root    4096 авг  8 01:53 newt
+drwxr-xr-x  8 root root    4096 авг  8 01:53 networkd-dispatcher
+drwxr-xr-x  3 root root    4096 авг  8 01:53 ca-certificates
+drwxr-xr-x  4 root root    4096 авг  8 01:53 dbus-1
+drwxr-xr-x  2 root root    4096 авг  8 01:52 selinux
+drwxr-xr-x  2 root root    4096 авг  8 01:52 opt
+-rw-r--r--  1 root root      26 авг  2 16:14 issue
+-rw-r--r--  1 root root      19 авг  2 16:14 issue.net
+-rw-r--r--  1 root root     104 авг  2 16:13 lsb-release
+drwxr-xr-x  2 root root    4096 фев 28  2023 update-notifier
+-rw-r--r--  1 root root   29219 июн 28  2022 brltty.conf
+-rw-r--r--  1 root root   10593 апр  1  2022 sensors3.conf
+-rw-r--r--  1 root root    1523 мар 25  2022 usb_modeswitch.conf
+-rw-r--r--  1 root root     111 мар 24  2022 magic.mime
+-rw-r--r--  1 root root     767 мар 24  2022 netconfig
+-rwxr-xr-x  1 root root     228 мар 23  2022 nftables.conf
+-rw-r--r--  1 root root     681 мар 23  2022 xattr.conf
+-rw-r--r--  1 root root     433 мар 23  2022 apg.conf
+-rw-r--r--  1 root root   72029 мар 21  2022 mime.types
+-rw-r--r--  1 root root     191 мар 17  2022 libaudit.conf
+-rw-r--r--  1 root root      27 мар 13  2022 libao.conf
+-rw-r--r--  1 root root      20 фев 24  2022 fprintd.conf
+drwxr-xr-x  3 root root    4096 фев 21  2022 gss
+-rw-r--r--  1 root root    4573 фев 14  2022 sudo.conf
+-rw-r--r--  1 root root    9390 фев 14  2022 sudo_logsrvd.conf
+-r--r-----  1 root root    1671 фев  8  2022 sudoers
+-rw-r--r--  1 root root     592 янв 24  2022 logrotate.conf
+-rw-r--r--  1 root root    4942 янв 24  2022 wgetrc
+-rw-r--r--  1 root root    5620 янв  9  2022 rygel.conf
+-rw-r--r--  1 root root     744 янв  8  2022 mke2fs.conf
+-rw-r--r--  1 root root     460 дек  8  2021 zsh_command_not_found
+-rw-r--r--  1 root root      45 ноя 11  2021 bash_completion
+-rw-r--r--  1 root root     267 окт 15  2021 legal
+-rw-r--r--  1 root root      91 окт 15  2021 networks
+drwxr-xr-x  2 root root    4096 сен  6  2021 usb_modeswitch.d
+-rw-r--r--  1 root root      13 авг 22  2021 debian_version
+-rw-r--r--  1 root root     367 дек 16  2020 bindresvport.blacklist
+-rw-r--r--  1 root root     552 авг 12  2020 pam.conf
+-rw-r--r--  1 root root    1816 дек 27  2019 ethertypes
+-rw-r--r--  1 root root     604 сен 16  2018 deluser.conf
+-rw-r--r--  1 root root    2932 апр  2  2013 protocols
+-rw-r--r--  1 root root     887 апр  1  2013 rpc

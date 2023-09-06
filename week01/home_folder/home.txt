@@ -1,0 +1,62 @@
+total 116
+drwxrwxr-x 4 eugen eugen  4096 сен  6 19:47 week01
+drwx------ 3 eugen eugen  4096 сен  6 18:10 snap
+-rw-rw-r-- 1 eugen eugen    11 сен  6 15:23 notes.txt
+-rw-rw-r-- 1 eugen eugen    11 сен  6 15:21 notes
+-rw-rw-r-- 1 eugen eugen 53995 сен  6 15:07 errors.txt
+-rw-rw-r-- 1 eugen eugen  3127 сен  6 15:07 output.txt
+-rw-rw-r-- 1 eugen eugen    42 сен  6 14:56 namelist.sorted
+-rw-rw-r-- 1 eugen eugen    42 сен  6 14:53 namelist
+drwxr-xr-x 2 eugen eugen  4096 сен  6 14:39 Videos
+drwxr-xr-x 2 eugen eugen  4096 сен  6 14:39 Pictures
+drwxr-xr-x 2 eugen eugen  4096 сен  6 14:39 Music
+drwxr-xr-x 2 eugen eugen  4096 сен  6 14:39 Documents
+drwxr-xr-x 2 eugen eugen  4096 сен  6 14:39 Downloads
+drwxr-xr-x 2 eugen eugen  4096 сен  6 14:39 Desktop
+drwxr-xr-x 2 eugen eugen  4096 сен  6 14:39 Templates
+drwxr-xr-x 2 eugen eugen  4096 авг 29 22:08 Public
+total 0
+total 40
+-rw-r--r--   1 eugen eugen 8192 сен  6 18:10 event-sound-cache.tdb.21c44f8cfc03483dbb83dd41dd99044e.x86_64-pc-linux-gnu
+drwx------   2 eugen eugen 4096 авг 29 22:10 ubuntu-report
+drwxrwxr-x   2 eugen eugen 4096 авг 29 22:08 update-manager-core
+drwxrwxr-x   3 eugen eugen 4096 авг 29 22:07 ibus
+drwxrwxr-x   2 eugen eugen 4096 авг 29 22:07 ibus-table
+drwx------   8 eugen eugen 4096 авг 29 22:07 evolution
+drwxr-xr-x 114 eugen eugen 4096 авг 29 22:07 mesa_shader_cache
+drwxrwxr-x   2 eugen eugen 4096 авг 29 22:07 gstreamer-1.0
+drwx------   3 eugen eugen 4096 авг 29 22:07 tracker3
+total 56
+drwx------ 2 eugen eugen 4096 сен  6 18:10 dconf
+drwxr-xr-x 2 eugen eugen 4096 сен  6 15:13 gedit
+drwx------ 2 eugen eugen 4096 сен  6 15:12 enchant
+-rw-rw-r-- 1 eugen eugen    3 сен  6 14:39 gnome-initial-setup-done
+-rw-rw-r-- 1 eugen eugen    5 сен  6 14:38 user-dirs.locale
+drwx------ 2 eugen eugen 4096 сен  6 14:38 pulse
+-rw------- 1 eugen eugen  633 сен  6 14:38 user-dirs.dirs
+drwx------ 3 eugen eugen 4096 авг 29 22:22 gnome-session
+drwx------ 2 eugen eugen 4096 авг 29 22:08 update-notifier
+drwxr-xr-x 2 eugen eugen 4096 авг 29 22:07 nautilus
+drwx------ 2 eugen eugen 4096 авг 29 22:07 gtk-3.0
+drwxr-xr-x 2 eugen eugen 4096 авг 29 22:07 goa-1.0
+drwx------ 3 eugen eugen 4096 авг 29 22:07 evolution
+drwx------ 3 eugen eugen 4096 авг 29 22:07 ibus
+total 0
+total 0
+total 0
+total 0
+total 4
+drwxr-xr-x 4 eugen eugen 4096 сен  6 14:38 snapd-desktop-integration
+total 0
+total 40
+drwxrwxr-x 2 eugen eugen  4096 сен  6 19:48 home_folder
+drwxrwxr-x 2 eugen eugen  4096 сен  6 19:48 root_folder
+-rw-rw-r-- 1 eugen eugen   439 сен  6 19:48 ex3.sh
+-rwxrwxr-x 1 eugen eugen 15960 сен  6 19:27 ex4
+-rw-rw-r-- 1 eugen eugen    66 сен  6 19:26 main.c
+-rw-rw-r-- 1 eugen eugen  2033 сен  6 19:23 ex2.txt
+-rw-rw-r-- 1 eugen eugen   179 сен  6 19:20 ex1.txt
+total 4
+drwx------ 14 eugen eugen 4096 авг 29 22:07 share
+total 0
+total 0

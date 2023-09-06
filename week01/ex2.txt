@@ -1,0 +1,194 @@
+    1  whoami
+    2  ls
+    3  nano namelist
+    4  man sort
+    5  sort -n -r namelist 
+    6  sort -n -r namelist > namelist.sorted
+    7  nano namelist.sorted
+    8  nano namelist
+    9  hostname
+   10  ls /proc
+   11  man find
+   12  find "task" /proc/
+   13  find /proc -name "task" 1>output.txt 2>errors.txt
+   14  nano output.txt
+   15  nanno errors.txt 
+   16  nano errors.txt 
+   17  head -n 3 output.txt
+   18  tail -n 3 errors.txt
+   19  pwd
+   20  clear
+   21  mkdir test
+   22  ls
+   23  cd test/
+   24  pwd
+   25  cd ..
+   26  pwd
+   27  rm -r test/
+   28  ls
+   29  clear
+   30  cat namelist
+   31  clear
+   32  gedit namelist
+   33  cd ~
+   34  ls
+   35  cd ..
+   36  ls
+   37  cd ~
+   38  ls
+   39  clear
+   40  echo hi
+   41  echo hiiiecho hiecho hi
+   42  w
+   43  clear
+   44  hello
+   45  clear
+   46  ls
+   47  echo
+   48  w
+   49  echo hi
+   50  a
+   51  clear
+   52  ls
+   53  gedit namelist &
+   54  ls
+   55  jobs
+   56  clear
+   57  jobs
+   58  fg %1
+   59  nano notes &
+   60  ls
+   61  fg %1
+   62  notes
+   63  ls
+   64  cat notes
+   65  jobs
+   66  job
+   67  clear
+   68  jobs
+   69  fg %1
+   70  nano notes 
+   71  gedit notes.txt &
+   72  jobs
+   73  cat notes > notes.txt
+   74  cat notes.txt 
+   75  fg %1
+   76  cat notes.txt 
+   77  jobs
+   78  ls
+   79  cd ~
+   80  ls
+   81  whereami
+   82  clear
+   83  clearmkdir ~/week01
+   84  mkdir ~/week01
+   85  ls
+   86  cd week01/
+   87  cat ex1.txt
+   88  cat > ex1.txt
+   89  ls
+   90  nano ex1.txt 
+   91  cat ex1.txt 
+   92  sort "gcc"
+   93  cd /usr/bin
+   94  ls
+   95  scan "gcc"
+   96  scan -r "gcc"
+   97  sort -r 
+   98  ls
+   99  cd ~
+  100  find /usr/bin -type f -name '*gcc*' | sort -r > ~/week01/ex1.txt
+  101  cd week01/
+  102  ls
+  103  cat ex1.txt 
+  104  find /usr/bin -type f -name 'gcc' | sort -r > ~/week01/ex1.txt
+  105  cat ex1.txt 
+  106  ls
+  107  cat ex1.txt 
+  108  find /usr/bin -type f -name '*gcc*' | sort -r > ~/week01/ex1.txt
+  109  cat ex1.txt 
+  110  gedit ex1.txt 
+  111  history
+  112  ls
+  113  history > ex2.txt
+  114  ls
+  115  cat ex2.txt 
+  116  gedit ~/week01/main.c
+  117  ls
+  118  cat main.c
+  119  gcc main.c -o ex4
+  120  ls
+  121  ./ex4
+  122  cd /
+  123  ls
+  124  cd ~
+  125  ls
+  126  date
+  127  sleep 3
+  128  date
+  129  sleep 3
+  130  date
+  131  ls
+  132  week01
+  133  week01/
+  134  cd week01/
+  135  l
+  136  ls
+  137  cat main.c
+  138  cat ex4
+  139  clear
+  140  gedit ex3.sh
+  141  ls
+  142  bash ex3.sh
+  143  ls
+  144  cd home_folder/
+  145  ls
+  146  cat home.txt home.txt 
+  147  ls
+  148  ..
+  149  cd ..
+  150  ls
+  151  root_folder/
+  152  cd root_folder/
+  153  ls
+  154  cat root.txt 
+  155  clear
+  156  ls
+  157  cd ..
+  158  ls
+  159  gedit ex1.sh
+  160  ls
+  161  cat ex1.sh
+  162  cat ex2.txt 
+  163  cat ex1.sh 
+  164  ls
+  165  cat ex1.txt 
+  166  cat ex1.sh 
+  167  find /usr/bin -type f -name '*gcc*' | sort -r | head -n 5 > ex1.txt
+  168  ls
+  169  cat ex1.txt 
+  170  clear
+  171  cat ex1.txt 
+  172  ls
+  173  gedit ex2.sh
+  174  bash ex2.sh
+  175  ls
+  176  cat ex2.txt
+  177  gedit ex2.txt
+  178  gedit ex2.sh
+  179  ./ex2.sh
+  180  bash ex2.sh 
+  181  cat ex2.txt
+  182  history 
+  183  history > ~/week01/ex2.txt 
+  184  cat ex2.txt 
+  185  gedit ex2.txt 
+  186  gedit ex2.sh
+  187  bash ex2.sh
+  188  cat ex2.txt
+  189  gedit ex2.sh
+  190  bash ex2.sh 
+  191  cat ex2.txt 
+  192  gedit ex2.sh
+  193  chmod +x ex2.sh
+  194  ./ex2.sh
