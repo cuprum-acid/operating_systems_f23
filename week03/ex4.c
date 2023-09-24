@@ -65,6 +65,7 @@ void *max(const void *a, const void *b) {
 }
 
 int main() {
+
     double doubleArray[] = {14.2, 3.4, 5.6, 7.8, 9.0};
     int intArray[] = {2, 28, 3, 4, 5};
 
