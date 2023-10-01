@@ -1,0 +1,3 @@
+
+Process 7356: Partial Result = 114594
+Process 7357: Partial Result = 158145
