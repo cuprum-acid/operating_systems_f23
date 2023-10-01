@@ -1,0 +1,2 @@
+In the first run (n = 3) program create a new child process every 5 seconds, so if we call "pstree" immediately after the program starts, we will see only one child process. But after 5 seconds there will be two, and later all three child processes.
+In the second run (n = 5) program create another 5 child processes with time interval 5 seconds. So, the difference between the two program runs is that in the end a different number of child processes are created, and the processes have different PID's.
