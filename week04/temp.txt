@@ -1,3 +1,13 @@
 
-Process 7356: Partial Result = 114594
-Process 7357: Partial Result = 158145
+Process 7437: Partial Result = 36499
+Process 7438: Partial Result = 16743
+Process 7441: Partial Result = 19720
+Process 7439: Partial Result = 22829
+Process 7442: Partial Result = 28941
+Process 7440: Partial Result = 35651
+Process 7444: Partial Result = 19408
+Process 7446: Partial Result = 26672
+Process 7443: Partial Result = 25980
+Process 7447: Partial Result = 20533
+Process 7448: Partial Result = 21986
+Process 7445: Partial Result = 16285
