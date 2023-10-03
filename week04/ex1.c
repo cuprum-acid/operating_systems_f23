@@ -4,9 +4,17 @@
 #include <sys/wait.h>
 #include <time.h>
 
+void measureExecutionTime(clock_t start_time, const char* process_name) {
+    clock_t end_time = clock();
+    double execution_time_ms = (double)(end_time - start_time) * 1000 / CLOCKS_PER_SEC;
+    printf("%s execution time: %.2f ms\n", process_name, execution_time_ms);
+}
+
 int main() {
     pid_t pid1, pid2;
-    clock_t start_time, end_time;
+    clock_t main_start_time, child1_start_time, child2_start_time;
+
+    main_start_time = clock();
 
     printf("Main process: PID=%d, Parent PID=%d\n", getpid(), getppid());
 
@@ -16,11 +24,9 @@ int main() {
         perror("Fork failed");
         return 1;
     } else if (pid1 == 0) {
-        start_time = clock();
+        child1_start_time = clock();
         printf("Child 1: PID=%d, Parent PID=%d\n", getpid(), getppid());
-        end_time = clock();
-        double execution_time_ms = (double)(end_time - start_time) * 1000 / CLOCKS_PER_SEC;
-        printf("Child 1 execution time: %.2f ms\n", execution_time_ms);
+        measureExecutionTime(child1_start_time, "Child 1");
         return 0;
     }
 
@@ -30,17 +36,17 @@ int main() {
         perror("Fork failed");
         return 1;
     } else if (pid2 == 0) {
-        start_time = clock();
+        child2_start_time = clock();
         printf("Child 2: PID=%d, Parent PID=%d\n", getpid(), getppid());
-        end_time = clock();
-        double execution_time_ms = (double)(end_time - start_time) * 1000 / CLOCKS_PER_SEC;
-        printf("Child 2 execution time: %.2f ms\n", execution_time_ms);
+        measureExecutionTime(child2_start_time, "Child 2");
         return 0;
     }
     
     // Wait for both child processes to complete
     waitpid(pid1, NULL, 0);
     waitpid(pid2, NULL, 0);
+
+    measureExecutionTime(main_start_time, "Main process");
 
     return 0;
 }
