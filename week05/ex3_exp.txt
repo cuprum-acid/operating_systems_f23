@@ -1,0 +1,8 @@
+In this task, we calculated the number of prime numbers in the range [0, 10000000)
+using multi-threading with different number of threads (1 2 4 10 100)
+
+After analysing execution time of each case we can make such conclusion:
+The more threads, the faster the program was executed. 
+But the biggest performance improvement occured when we used 2
+threads instead of one: performance almost doubled. Further increase in
+the number of threads also improved performance, but not so significatly.
