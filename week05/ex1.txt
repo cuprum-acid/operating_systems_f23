@@ -1,0 +1,12 @@
+In this exercise, we implemented a message publication system using named pipes for inter-process communication.
+The system consisted of one publisher and multiple subscribers, each running in separate processes.
+
+To assess the functionality of the system, we observed the output of all running subscribers and checked whether they received the message correctly.
+
+Each subscriber successfully received the messages published by the publisher & messages were delivered to all subscribers without loss or interference.
+
+In our implementation, we created n named pipes one for each subscriber.
+This design choice ensured that each subscriber had its dedicated communication channel with the publisher.
+Having n named pipes eliminated issues like message interleaving, where parts of different messages could mix together when using a single named pipe for all subscribers.
+By providing a unique named pipe to each subscriber, we maintained data isolation and prevented message collisions.
+   
