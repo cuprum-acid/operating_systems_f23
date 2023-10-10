@@ -1,0 +1,31 @@
+n = 10000000
+m = 1
+
+real	0m5,732s
+user	0m5,110s
+sys	0m0,619s
+
+m = 2
+
+real	0m2,984s
+user	0m5,514s
+sys	0m0,400s
+
+m = 4
+
+real	0m2,247s
+user	0m5,923s
+sys	0m1,479s
+
+m = 10
+
+real	0m2,268s
+user	0m6,541s
+sys	0m1,660s
+
+m = 100
+
+real	0m2,484s
+user	0m6,847s
+sys	0m2,439s
+

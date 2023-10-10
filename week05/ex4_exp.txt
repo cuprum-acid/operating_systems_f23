@@ -1,0 +1,10 @@
+In this task, we used different approach to divide thread loads.
+
+It gave almost similar results like in ex3, but on 100 number of threads,
+program starts to execute slower compared with 10 and even 4 threads. It may be explained, that program spend 
+computational power to devide load on large amount of threads wich slows down the execution time of the program.
+So, we can conclude that performance of multi-threaded program depends on the number of threads.
+Big number of threads may increase execution time by forcing program to sepnd time on distributing computational power.
+And small number of threads may be not enough for program to execute in fastest way.
+
+
