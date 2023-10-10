@@ -13,7 +13,6 @@ struct Thread {
 // Function that each thread will execute
 void *thread_function(void *arg) {
     struct Thread *thread_data = (struct Thread *)arg;
-    printf("Thread %d is created\n", thread_data->i);
     sprintf(thread_data->message, "Hello from thread %d", thread_data->i);
     printf("Thread %d with ID %lu: %s\n", thread_data->i, pthread_self(), thread_data->message);
     pthread_exit(NULL);
@@ -39,6 +38,7 @@ int main(int argc, char *argv[]) {
             perror("Thread creation failed");
             return 1;
         }
+        printf("Thread %d is created\n", i);
         pthread_join(threads[i].id, NULL);
     }
 
