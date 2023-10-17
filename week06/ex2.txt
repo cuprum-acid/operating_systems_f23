@@ -1,0 +1,5 @@
+1. After changing "TRI_BASE" macro to value 100, the range of searching for triangular numbers decreased to smaller values.
+Also, it resulted faster discovery of triangular numbers.
+
+2. After changing arrival time to 0 the order of execution changed. They started to execute by their indices in ascending order.
+
