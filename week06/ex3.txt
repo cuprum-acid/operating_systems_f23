@@ -1,0 +1,5 @@
+The output of this program is different.
+This is because we use two different scheduling algorithms: Here we use Shortest Job First,
+and in previous exercise we used FCFS.
+As we obtained small burst time, performed by SJF, our output expected to be smaller compared to the FCFS.
+Also, order of execution changed.
