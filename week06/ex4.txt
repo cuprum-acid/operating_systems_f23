@@ -1,0 +1,17 @@
+Let's compare Round-Robin vs FCFS:
+
+Round-Robin is a preemptive scheduling algorithm, whereas FCFS is non-preemptive.
+In Round-Robin, each process is given a time quantum to execute before the scheduler switches to the next process. This leads to a more fair distribution of CPU time among all processes.
+In FCFS, processes are executed in the order of their arrival time, and once a process starts, it runs until completion without interruption.
+In RR, processes with smaller burst times may not necessarily complete faster, as they may need to wait for their turn in the queue due to the time quantum.
+
+RR vs SJF:
+ 
+In Round-Robin, each process is given an equal time quantum, which can lead to more predictable and fair execution times for each process.
+In SJF, processes with the shortest burst time are given priority, and the scheduler switches to the next shortest job as soon as it becomes available.
+ 
+ 
+In Round-Robin, the user can specify the quantum value from stdin. The quantum determines how long each process gets to execute before the scheduler switches to the next process.
+A smaller quantum will result in more frequent context switches and potentially lower throughput due to overhead.
+A larger quantum may lead to processes hogging the CPU for longer periods and reduced fairness.
+
