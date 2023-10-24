@@ -1,0 +1,6 @@
+First Fit Throughput: 104.025598 queries per second
+Best Fit Throughput: 40.585788 queries per second
+Worst Fit Throughput: 40.954140 queries per second
+
+These results show, that First Fit has the highest throughput, while Best Fit and Worst Fit have lower throughputs.
+First FIt seems to be the most efficient among the three.
