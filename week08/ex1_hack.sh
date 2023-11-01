@@ -24,5 +24,8 @@ if [ -z "$PASSWORD" ]; then
     echo "Password not found in memory."
 else
     echo "$PASSWORD" | sed 's/.$//'
+    echo "Address: 0x$ADDRESS"
 fi
+
+kill -9 $PID
 
