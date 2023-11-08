@@ -1,0 +1,15 @@
+Random Page Replacement Algorithm:
+
+Provides good performance in situations where randomness helps prevent clustering of page replacements.
+Unpredictable and less likely to make intelligent decisions.
+The hit ratio may vary significantly.
+
+NFU (Not Frequently Used) Page Replacement Algorithm:
+
+Keeps track of page references and favors evicting pages that are not frequently used.
+Effective in reducing the number of page faults when pages have clear usage patterns.
+
+Aging Page Replacement Algorithm:
+
+Uses aging counters to maintain a dynamic history of page references.
+Combines aspects of LRU (Least Recently Used) and NFU algorithms.
