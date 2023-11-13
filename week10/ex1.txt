@@ -1,0 +1,9 @@
+After modifying the file "myfile11.txt" monitor.c reported an event about modifying of the file.
+It is because the "IN_MODIFY" event was triggered.
+This event is appropriate for tracking changes in the file's data.
+
+And event for "myfile13.txt" was not reported by monitor.c
+It is out of the scope of monitor.c and located in another folder.
+
+Removed duplicates of hard link myfile11.txt (Inode: 1445827)
+
