@@ -1,0 +1,29 @@
+Thread 3 is created
+Mutexes locked by Thread 3: 
+Thread 3 tries to lock mutex 0
+Thread 3 locked mutex 0
+Thread 1 is created
+Mutexes locked by Thread 1: 
+Thread 1 tries to lock mutex 0
+Thread 1 couldn't lock mutex 0
+Thread 3 is created
+Mutexes locked by Thread 3: 0 
+Thread 3 tries to lock mutex 2
+Thread 3 locked mutex 2
+Thread 1 is created
+Mutexes locked by Thread 1: 
+Thread 1 tries to lock mutex 1
+Thread 1 locked mutex 1
+Thread 3 is created
+Mutexes locked by Thread 3: 0 
+Thread 3 tries to lock mutex 1
+Thread 3 couldn't lock mutex 1
+Checking for deadlock...
+Deadlock detected!
+Status of threads and mutexes:
+Thread 0 mutexes: 
+Thread 1 mutexes: 
+
+A deadlock occurs when threads are unable to proceed because each is waiting for a resource that's held by another thread in a cycle.
+
+
